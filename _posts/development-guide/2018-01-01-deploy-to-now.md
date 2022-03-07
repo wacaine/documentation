@@ -38,6 +38,8 @@ Follow the steps below to upload your scenes to a free Heroku server:
    /*.env
    bin
    ```
+   
+   e) Make sure your scene is at the root of the repo.  Scenes found in a subfolder will not work.
 
 4. Use the Heroku CLI to log into your Heroku account with `heroku login`. This opens a browser window to provide your user and password.
 
